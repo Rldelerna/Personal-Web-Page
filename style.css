@@ -1,0 +1,158 @@
+/*
+liver #725752;
+battleship #878E88;
+opal #96C0B7;
+beige #D4DFC7;
+blond #FEF6C9;
+ */
+
+
+*{
+	background-color: #ffffff;
+}
+
+
+.first
+{
+  margin-top: 50px;
+  align-content: center;
+  display: block;
+  font-size: 0;
+}
+
+.center{
+
+align-content: center;
+display: block;
+font-size: 0px;
+margin: 0px;
+
+}
+
+.last{
+  margin-bottom: 50px;
+  align-content: center;
+  display: block;
+font-size: 0px;
+}
+
+.rectangle{
+  width:100%;
+  height:2px;
+  background:#96C0B7; 
+  margin-bottom: 20px;
+}
+
+.rectangle2{
+  width:50%;
+  height:2px;
+  background:#96C0B7; 
+}
+
+.rectangle3{
+  width:75%;
+  height:2px;
+  background:#96C0B7; 
+}
+
+
+.name{
+  font-family: 'Bodoni Moda', serif;
+  font-size: 35pt;
+  color: #725752;
+  margin-left: 20px;
+  margin-top: 30px;
+
+}
+
+.info{
+  font-family: 'Bodoni Moda', serif;
+  color: #878E88;
+  margin-left: 20px;
+  display: inline;
+  }
+
+.history{
+  text-align: right;
+  color: #725752;
+  font-family: 'Bodoni Moda', serif;
+  margin-right: 350px;
+  font-size: 35px;
+   line-height: 0px;
+}
+
+.portfolio{
+  font-family: 'Bodoni Moda', serif;
+  color: #725752;
+  font-size: 45px;
+  text-align: right;
+ margin-right: 75px;
+ line-height: 0px;
+}
+
+.column {
+  float: left;
+  width: 40%;
+  color: #878E88;
+  padding: 25px;
+  font-size: 16px;
+  margin-left: 50px;
+  font-family: helvetica, sans-serif;
+  text-align: justify;
+  line-height: 1.5;
+
+}
+
+.column2 {
+  float: left;
+  width: 40%;
+  padding: 25px;
+  color: #878E88;
+  font-size: 16px;
+  font-family: helvetica, sans-serif;
+  text-align: justify;
+  line-height: 1.5;
+  margin-bottom: 50px;
+  margin-left: 50px;
+}
+
+ul{
+  list-style: none;
+  margin-left: 50px;
+}
+
+li{
+  display: inline;
+}
+
+a:link, a:visited {
+  background-color: #725752;
+  color: #FEF6C9;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  font-family: 'Bodoni Moda', serif;
+}
+
+a:hover, a:active {
+  background-color: #96C0B7;
+}
+
+.quote{
+  width: 40px;
+
+}
+
+.profile{
+display: inline;
+  margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.profile2{
+display: inline;
+  margin-left: 350px;
+  margin-bottom: 50px;
+
+
